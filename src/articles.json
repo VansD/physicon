@@ -1,0 +1,203 @@
+{
+    "pageProps": {
+        "metaData": {
+            "title": "Учительская: полезные и нескучные статьи для педагога",
+            "keywords": "Учительская. Статьи для педагога.",
+            "description": "Советы от методистов-профессионалов: как готовить учеников к экзаменам, как эффективно использовать образовательный сервис Облако знаний. Обзор нормативных изменений в образовании."
+        },
+        "articles": [
+            {
+                "id": 4732,
+                "title": "В помощь учителю: обновляем географическую информацию ",
+                "views": 166,
+                "href": "v-pomosh-uchitelyu-obnovlyaem-geograficheskuyu-informaciyu",
+                "date": "2024-08-23T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4732/full_1",
+                "rubricId": "useful_adv"
+            },
+            {
+                "id": 4731,
+                "title": "Основы безопасности и защиты Родины: особенности нового предмета",
+                "views": 713,
+                "href": "osnovy-bezopasnosti-i-zashity-rodiny-osobennosti-novogo-predmeta",
+                "date": "2024-08-21T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4731/full_1",
+                "rubricId": "edu_change"
+            },
+            {
+                "id": 4721,
+                "title": "Как работают виртуальные лабораторные работы по химии в «Облаке знаний»",
+                "views": 181,
+                "href": "kak-rabotayut-virtual-nye-laboratornye-raboty-po-himii-v-oblake-znanij",
+                "date": "2024-08-08T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4721/full_1",
+                "rubricId": "useful_adv"
+            },
+            {
+                "id": 4717,
+                "title": "Креативное мышление как вид функциональной грамотности",
+                "views": 226,
+                "href": "kreativnoe-myshlenie-kak-vid-funkcional-noj-gramotnosti",
+                "date": "2024-07-24T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4717/full_1",
+                "rubricId": "useful_adv"
+            },
+            {
+                "id": 4698,
+                "title": "Итоги ЕГЭ-2024: интервью с экспертом предметной комиссии",
+                "views": 797,
+                "href": "itogi-ege-2024-interv-yu-s-ekspertom-predmetnoj-komissii",
+                "date": "2024-07-09T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4698/full_1",
+                "rubricId": "edu_change"
+            },
+            {
+                "id": 4695,
+                "title": "Летние экологические исследования для школьников",
+                "views": 254,
+                "href": "letnie-ekologicheskie-issledovaniya-dlya-shkol-nikov",
+                "date": "2024-06-26T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4695/full_1",
+                "rubricId": "useful_adv"
+            },
+            {
+                "id": 4691,
+                "title": "Адаптивное тестирование в «Облаке знаний»",
+                "views": 223,
+                "href": "adaptivnoe-testirovanie-v-oblake-znanij",
+                "date": "2024-06-24T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4691/full_1",
+                "rubricId": "innovation"
+            },
+            {
+                "id": 4662,
+                "title": "Химия в классе: как донести важность науки до школьников",
+                "views": 231,
+                "href": "himiya-v-klasse-kak-donesti-vazhnost-nauki-do-shkol-nikov",
+                "date": "2024-05-31T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4662/full_1",
+                "rubricId": "useful_adv"
+            },
+            {
+                "id": 4658,
+                "title": "Какое отношение экология имеет к русскому языку?",
+                "views": 323,
+                "href": "kakoe-otnoshenie-ekologiya-imeet-k-russkomu-yazyku",
+                "date": "2024-05-17T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4658/full_1",
+                "rubricId": "useful_adv"
+            },
+            {
+                "id": 4637,
+                "title": "Читательская грамотность на уроках химии",
+                "views": 422,
+                "href": "chitatel-skaya-gramotnost-na-urokah-himii",
+                "date": "2024-04-16T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4637/full_1",
+                "rubricId": "useful_adv"
+            },
+            {
+                "id": 4635,
+                "title": "Знаниевые vs Компетентностные задания в цифровых работах",
+                "views": 399,
+                "href": "znanievye-vs-kompetentnostnye-zadaniya-v-cifrovyh-rabotah",
+                "date": "2024-04-02T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4635/full_1",
+                "rubricId": "analytics"
+            },
+            {
+                "id": 4629,
+                "title": "ЕГЭ-2024 по географии: стратегия подготовки",
+                "views": 509,
+                "href": "ege-2024-po-geografii-strategiya-podgotovki",
+                "date": "2024-03-19T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4629/full_1",
+                "rubricId": "useful_adv"
+            },
+            {
+                "id": 4600,
+                "title": "Гид по подготовке к ЕГЭ-24: разбор заданий по разным предметам",
+                "views": 728,
+                "href": "gid-po-podgotovke-k-ege-24-razbor-zadanij-po-raznym-predmetam",
+                "date": "2024-02-28T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4600/full_1",
+                "rubricId": "edu_change"
+            },
+            {
+                "id": 4597,
+                "title": "Изучение теории клонально-селективного иммунитета: работы  П. Эрлиха, Ф.М. Бёрнета, С. Тонегавы",
+                "views": 1311,
+                "href": "izuchenie-teorii-klonal-no-selektivnogo-immuniteta-raboty-p-erliha-f-m-berneta-s-tonegavy",
+                "date": "2024-02-20T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4597/full_1",
+                "rubricId": "useful_adv"
+            },
+            {
+                "id": 4595,
+                "title": "Изменения в ОГЭ-2024 по русскому языку ",
+                "views": 1754,
+                "href": "izmeneniya-v-oge-2024-po-russkomu-yazyku",
+                "date": "2024-02-16T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4595/full_1",
+                "rubricId": "useful_adv"
+            },
+            {
+                "id": 4594,
+                "title": "Дефицит заданий по новым рабочим программам? Эти цифровые работы могут помочь",
+                "views": 364,
+                "href": "deficit-zadanij-po-novym-rabochim-programmam-eti-cifrovye-raboty-mogut-pomoch",
+                "date": "2024-02-12T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4594/full_1",
+                "rubricId": "edu_change"
+            },
+            {
+                "id": 4593,
+                "title": "Зачем нужны задания по химии на поиск информации",
+                "views": 365,
+                "href": "zachem-nuzhny-zadaniya-po-himii-na-poisk-informacii",
+                "date": "2024-02-07T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4593/full_1",
+                "rubricId": "useful_adv"
+            },
+            {
+                "id": 4579,
+                "title": "Использование алгоритмов на разных предметах школьной программы",
+                "views": 546,
+                "href": "ispol-zovanie-algoritmov-na-raznyh-predmetah-shkol-noj-programmy",
+                "date": "2024-01-22T00:00:00.000Z",
+                "coverSrc": "/api/images/pageBanner/4579/full_1",
+                "rubricId": "useful_adv"
+            }
+        ],
+        "totalPages": 3,
+        "activePage": 1,
+        "rubrics": [
+            {
+                "id": "innovation",
+                "title": "Инновации"
+            },
+            {
+                "id": "psychology",
+                "title": "Психология"
+            },
+            {
+                "id": "edu_change",
+                "title": "Изменения в образовании"
+            },
+            {
+                "id": "motivation",
+                "title": "Мотивация"
+            },
+            {
+                "id": "analytics",
+                "title": "Аналитика"
+            },
+            {
+                "id": "useful_adv",
+                "title": "Полезные советы"
+            }
+        ],
+        "activeRubrics": []
+    },
+    "__N_SSP": true
+}
