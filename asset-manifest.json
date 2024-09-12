@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/physicon/static/css/main.26b8adba.css",
+    "main.js": "/physicon/static/js/main.4b10053f.js",
+    "static/js/453.89f00878.chunk.js": "/physicon/static/js/453.89f00878.chunk.js",
+    "static/media/Montserrat-Bold.woff": "/physicon/static/media/Montserrat-Bold.180ba33d8de7dcfe80a0.woff",
+    "static/media/Montserrat-Regular.woff": "/physicon/static/media/Montserrat-Regular.3db65dc4b858f0fed4fb.woff",
+    "static/media/Montserrat-Medium.woff": "/physicon/static/media/Montserrat-Medium.d42dad28f6470e5162c2.woff",
+    "static/media/Montserrat-SemiBold.woff": "/physicon/static/media/Montserrat-SemiBold.197213592de7a2a62e06.woff",
+    "static/media/Montserrat-Light.woff": "/physicon/static/media/Montserrat-Light.be142e6c3747b7b87e60.woff",
+    "static/media/logo_mono.svg": "/physicon/static/media/logo_mono.97e0ed310c171c643d0a0548d2a6d5af.svg",
+    "static/media/empty.svg": "/physicon/static/media/empty.84ec3430c490093403e6fd7d7c0b3031.svg",
+    "static/media/logo_with_title_without_padding.svg": "/physicon/static/media/logo_with_title_without_padding.205e52d821bc123737e41721846cf36f.svg",
+    "static/media/gradient_2.svg": "/physicon/static/media/gradient_2.fc063386a384a32e305b.svg",
+    "static/media/gradient_1.svg": "/physicon/static/media/gradient_1.dc25aef47a10708f4307.svg",
+    "index.html": "/physicon/index.html",
+    "static/media/viewed.svg": "/physicon/static/media/viewed.41f37449a7d5ff2ef6febca20ef63325.svg",
+    "main.26b8adba.css.map": "/physicon/static/css/main.26b8adba.css.map",
+    "main.4b10053f.js.map": "/physicon/static/js/main.4b10053f.js.map",
+    "453.89f00878.chunk.js.map": "/physicon/static/js/453.89f00878.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26b8adba.css",
+    "static/js/main.4b10053f.js"
+  ]
+}
