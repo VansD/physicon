@@ -1,20 +1,20 @@
-import { createBrowserRouter } from "react-router-dom";
+import { createHashRouter } from "react-router-dom";
 import { DefaultLayout } from "./views/layouts/DefaultLayout";
 import ArticlesPage from "./views/articles/ArticlesPage";
 
 
-export const router = createBrowserRouter([
+export const router = createHashRouter([
     {
         element: <DefaultLayout />,
         children: [
             {
-                path: "/",
+                path: "/*",
                 element: <ArticlesPage filter={""} />
             },
-            {
-                path: "/articles/:id",
-                element: <ArticlesPage filter={""} />
-            }
+            // {
+            //     path: "/articles/:id",
+            //     element: <ArticlesPage filter={""} />
+            // }
         ] 
     }
 ])
