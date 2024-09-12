@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/physicon/static/css/main.26b8adba.css",
-    "main.js": "/physicon/static/js/main.3a22805c.js",
+    "main.css": "/physicon/static/css/main.da6a7bc8.css",
+    "main.js": "/physicon/static/js/main.c5a4e9cb.js",
     "static/js/453.89f00878.chunk.js": "/physicon/static/js/453.89f00878.chunk.js",
     "static/media/Montserrat-Bold.woff": "/physicon/static/media/Montserrat-Bold.180ba33d8de7dcfe80a0.woff",
     "static/media/Montserrat-Regular.woff": "/physicon/static/media/Montserrat-Regular.3db65dc4b858f0fed4fb.woff",
@@ -15,12 +15,12 @@
     "static/media/gradient_1.svg": "/physicon/static/media/gradient_1.dc25aef47a10708f4307.svg",
     "index.html": "/physicon/index.html",
     "static/media/viewed.svg": "/physicon/static/media/viewed.41f37449a7d5ff2ef6febca20ef63325.svg",
-    "main.26b8adba.css.map": "/physicon/static/css/main.26b8adba.css.map",
-    "main.3a22805c.js.map": "/physicon/static/js/main.3a22805c.js.map",
+    "main.da6a7bc8.css.map": "/physicon/static/css/main.da6a7bc8.css.map",
+    "main.c5a4e9cb.js.map": "/physicon/static/js/main.c5a4e9cb.js.map",
     "453.89f00878.chunk.js.map": "/physicon/static/js/453.89f00878.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.26b8adba.css",
-    "static/js/main.3a22805c.js"
+    "static/css/main.da6a7bc8.css",
+    "static/js/main.c5a4e9cb.js"
   ]
 }
